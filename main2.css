@@ -1,0 +1,29 @@
+.jumbotron{
+
+
+  color: #fff;
+    padding: 100px 25px;
+	background: url("images/Retro.jpg") center center;
+	
+}
+.logo {
+    font-size: 200px;
+}
+  .bg-grey {
+      background-color: #f6f6f6;
+  }
+  .container-fluid {
+      padding: 60px 50px;
+  }
+  #linbox{
+font-size: 25px;
+  	color:Black;
+  }
+  a{
+
+  color:#02a388;
+  }
+  ul{
+
+  	list-style: none;
+  }
